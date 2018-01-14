@@ -2,9 +2,3 @@
 <Response>
   <Say voice="alice">Please enter your 6 digit passcode with your number pad.</Say>
 </Response>
-
-<?xml version="1.0" encoding="UTF-8"?>
-<Response>
-  <Say voice="alice">Thanks for trying our documentation. Enjoy!</Say>
-  <Play>https://demo.twilio.com/docs/classic.mp3</Play>
-</Response>
